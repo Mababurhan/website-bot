@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Dashboard</title>
+</head>
+<body style="font-family:sans-serif;text-align:center;margin-top:100px;">
+
+<h1>Welcome to Bot Dashboard 🚀</h1>
+<p>You are logged in.</p>
+<a href="/logout">Logout</a>
+
+</body>
+</html>
